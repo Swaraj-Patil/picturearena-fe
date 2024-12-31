@@ -1,0 +1,63 @@
+/*!**************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[3]!./app/_components/auth/AuthLayout.module.css ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************/
+.AuthLayout_authBackground__e_ZJv {
+    /* background: url('../../../public/media/login-background.jpg') center; */
+    /* background: url('../../../public/media/hollywood-picture.jpg') center; */
+    background: url(/_next/static/media/deadpool-bg.d9e85789.jpg) left;
+    background-size: cover;
+    filter: blur(4px);
+}
+
+.AuthLayout_registerBackground__ZUywv {
+    /* background: url('../../../public/media/couple-watching-movie.jpg') center; */
+    background-color: rgba(0, 0, 0, 0.4);
+    background-size: cover;
+}
+/*!************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[3]!./app/_components/navbar/Navbar.module.css ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************/
+.Navbar_navbarLinks__0afMv > li{
+    overflow: hidden;
+    border-radius: 8px !important;
+}
+
+.Navbar_navbarLinks__0afMv > li > a {
+    padding: 14px 24px;
+}
+/*!************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[3]!./app/_components/footer/Footer.module.css ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************/
+.Footer_footerLinks__ISXga > div {
+    width: 240px;
+}
+
+.Footer_footerLinks__ISXga > div:last-child > ul > li {
+    background-color: #1A1A1A;
+    padding: 12px;
+    border-radius: 16px;
+    border: 1px solid #262626;
+    margin: 0;
+}
+
+.Footer_footerLinks__ISXga > div > p {
+    margin-bottom: 24px;
+}
+
+.Footer_footerLinks__ISXga > div > ul {
+    color: #999999;
+}
+
+.Footer_footerLinks__ISXga > div > ul > li {
+    margin-bottom: 14px;
+}
+.Footer_footerLinks__ISXga > div > ul > li:last-child {
+    margin-bottom: 0;
+}
+/*!***************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[12].use[3]!./app/_components/deviceCard/DeviceCard.css ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************************/
+.testt {
+    background-color: #0F0F0F;
+    background: linear-gradient(to right #E50000FF 0%, #E5000000 81%, #FFFFFF 100%);
+}
