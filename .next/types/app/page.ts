@@ -1,4 +1,4 @@
-// File: C:\Users\Admin\OneDrive\Documents\Swaraj\Web development\Projects\PictureArena\client\app\page.tsx
+// File: C:\Users\Admin\OneDrive\Documents\Swaraj\Web development\Projects\picture-arena-fe\app\page.tsx
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
